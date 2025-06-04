@@ -18,7 +18,7 @@ with st.sidebar:
     This app lets you:
 
     - 🗺️ **Select any Indian state and district**
-    - 🛰️ **View ESA Land Use Land Cover (LULC)** stats from **2020–2024**
+    - 🛰️ **View ESA Land Use Land Cover (LULC)** stats from **2017–2024**
     - 📈 **Visualize class-wise percentage distribution**
     - 🧠 Understand **spatial land use patterns** for agriculture, urban, forest, and water bodies.
 
